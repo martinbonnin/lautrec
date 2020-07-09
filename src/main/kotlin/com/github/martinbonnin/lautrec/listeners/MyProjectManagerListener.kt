@@ -1,8 +1,8 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.martinbonnin.lautrec.listeners
 
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.martinbonnin.lautrec.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

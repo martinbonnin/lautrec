@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.martinbonnin.lautrec.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.martinbonnin.lautrec.MyBundle
 
 class MyApplicationService {
 
